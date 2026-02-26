@@ -8,8 +8,8 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.svg", alt="alt")
-    
+          img(src="@/assets/curso/temas/sintesis.svg", alt="A continuación, se presenta la síntesis del componente formativo. Se pueden encontrar la innovación, creatividad y emprendimiento para llevarnos a realizar las cosas de manera diferente, se tiene en cuenta el producto, proceso y servicio. Dando paso a la gestión de la calidad, en conjunto con el liderazgo, estrategias y el trabajo en equipo.")
+
     .row.justify-content-center
       .col-lg-3
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
